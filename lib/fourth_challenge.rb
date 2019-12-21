@@ -9,7 +9,8 @@ epic_tragedy: {
     :patriarch => {:name => "Lord Capulet", :age => "50"}
     :matriarch => {:name => "Lady Capulet", :age => "51"}
     :hero => {:name => "Juliet", :age => "15", :status 
-    :hero_friends =>  ["Benvolio"
+    :hero_friends =>  [
+      {:name
   }
   
 }
